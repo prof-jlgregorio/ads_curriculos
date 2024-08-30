@@ -1,0 +1,9 @@
+.container {
+    display: block;
+    margin: 0 auto;
+    width: 1200px;
+    border: thin darkblue solid;
+    min-height: 400px;
+    box-shadow: 4px 4px 4px gray;
+    padding: 15px;
+}
